@@ -1,0 +1,21 @@
+{
+  "name": "aariraro",
+  "version": "1.0.0",
+  "description": "Aariraro - sweet songs for your little ones",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Anju V R",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  }
+}
